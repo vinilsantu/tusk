@@ -6,7 +6,8 @@ pasta
 chicken fry
 
 Beans
-pizza
+pizza 
+done
 
 
 
